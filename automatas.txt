@@ -1,0 +1,25 @@
+Este código es para todos libre de usar modificar actualizar para su propósito siempre que coloque los datos del autor que soy yo, pero no para uso comercial es GNU.
+Este es el archivo autómata con el cual deseo aportarles el que crea LANDING PAGE desde cero, crea la tabla y los archivos para trabajarla como son la pagina principal de recepción de datos, la pagina de inserción a la tabla y la pagina de agradecimientos.
+
+la tabla que crea es: CREATE TABLE Landing ( IdL INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, Nombres VARCHAR(50) NOT NULL, Apellidos VARCHAR(50) NOT NULL, Correo VARCHAR(50), Movil VARCHAR(20), Msj VARCHAR(250), Fecha TIMESTAMP,Tipo INT(6) , Estado INT(6) );
+
+los archivos que compacta son esto:
+
+Creando directorio: php/Landingpage/images
+Agregando archivo: php/Landingpage/images/recepcion1024x700.jpg
+Agregando archivo: php/Landingpage/images/gracias1024x576.jpg
+Agregando archivo: php/Landingpage/db.php
+Agregando archivo: php/Landingpage/landing.php
+Agregando archivo: php/Landingpage/landing4.php
+Agregando archivo: php/Landingpage/jquery-3.6.0.min.js
+Agregando archivo: php/Landingpage/landing3.php
+Agregando archivo: php/Landingpage/style.css
+Agregando archivo: php/Landingpage/landing2.php
+
+hay mas pero estos son los necesarios
+
+
+si quieres verla funcionando visita 
+https://www.dev.yaprendo.com/dev/index.php
+
+también hay otra autómata para tablas multipropósito como agregar, actualizar, seleccionar, buscar y borrar y te puedes conectar a tu servidor web para consultar una tabla propia y descargar tu código
