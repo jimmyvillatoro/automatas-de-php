@@ -21,5 +21,6 @@ hay mas pero estos son los necesarios
 
 si quieres verla funcionando visita 
 https://www.dev.yaprendo.com/dev/index.php
+https://www.dev.yaprendo.com/dev/php/Landingpage/landing3.php
 
 también hay otra autómata para tablas multipropósito como agregar, actualizar, seleccionar, buscar y borrar y te puedes conectar a tu servidor web para consultar una tabla propia y descargar tu código
